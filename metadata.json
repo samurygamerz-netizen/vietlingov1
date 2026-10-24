@@ -1,0 +1,6 @@
+{
+  "name": "VietLingo",
+  "description": "Vietnamese language learning app tailored for Indian beginners with Hinglish guidance, tones, vocabulary, quizzes, and conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

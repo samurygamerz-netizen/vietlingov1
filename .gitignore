@@ -1,0 +1,16 @@
+*.iml
+.gradle
+.kotlin
+/local.properties
+local.properties
+.env
+.env.*
+!.env.example
+debug.keystore
+debug.keystore.base64
+/build
+app/build
+.build-outputs
+.aistudio
+.DS_Store
+/.idea
